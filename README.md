@@ -1,6 +1,6 @@
 
 # foodio
-<img src="panner" alt="panner" style="width:500px;height:600px;">
+<img src="panner.png" alt="panner" style="width:500px;height:600px;">
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Application structure](#project-structure)
