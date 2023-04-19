@@ -2,7 +2,7 @@
 # foodio
 <img src="panner.png" alt="panner" style="width:500px;height:600px;">
 <video width="320" height="240" autoplay>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="foodioVed - Made with Clipchamp.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 ### Table of contents
